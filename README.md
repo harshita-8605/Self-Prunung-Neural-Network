@@ -89,10 +89,6 @@ The distribution of gate values shows:
 
 This confirms that the model is effectively learning which weights to keep and which to discard.
 
-Add your plot image here:
-
-![Gate Distribution](gate_distribution.png)
-
 ---
 
 ## Conclusion
